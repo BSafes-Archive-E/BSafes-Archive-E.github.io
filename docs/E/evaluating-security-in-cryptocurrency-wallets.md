@@ -36,6 +36,7 @@ nav_order: 9790600
 
 <div class="dont-break-out" markdown="1">
 This is the mobile-friendly web version of the [original article](https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1154&context=msia_etds).
+# Evaluating Security in Cryptocurrency Wallets
 
 ### St. Cloud State University 
 {: .no_toc }
