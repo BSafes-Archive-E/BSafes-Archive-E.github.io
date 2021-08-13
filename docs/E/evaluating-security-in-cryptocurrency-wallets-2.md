@@ -196,7 +196,7 @@ In conclusion, there are myriads of different types of cryptocurrency wallets; t
 #### Table of Contents
 {: .no_toc}
 
-<ul><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-1/">Chapter I - Introduction</a></li><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-2/">Chapter II - Background and Review of Literature</a></li><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-3/">Chapter III - Methodology</a></li><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-4/">Chapter IV - Data Presentation and Analysis</a></li><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-5/">Chapter V - Results, Conclusion, and Recommendations</a></li><li> <a href="/docs/cryptocurrency/evaluating-security-in-cryptocurrency-wallets-6/">References</a></li></ul>
+<ul><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-1/">Chapter I - Introduction</a></li><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-2/">Chapter II - Background and Review of Literature</a></li><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-3/">Chapter III - Methodology</a></li><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-4/">Chapter IV - Data Presentation and Analysis</a></li><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-5/">Chapter V - Results, Conclusion, and Recommendations</a></li><li> <a href="/docs/E/evaluating-security-in-cryptocurrency-wallets-6/">References</a></li></ul>
 
 ***
 
