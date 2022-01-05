@@ -35,7 +35,7 @@ nav_order: 9790001
 </style>
 
 <div class="dont-break-out" markdown="1">
-This is the mobile-friendly web version of the [original article](https://digitalworks.union.edu/cgi/viewcontent.cgi?article=3538&context=theses).
+This is the mobile-friendly web version of the [original article](https://scholarship.law.tamu.edu/cgi/viewcontent.cgi?article=1229&context=lawreview).
 # EVOLUTION OR REVOLUTION IN TELEHEALTH REGULATION
 
 ### Texas A&M Law Review  
